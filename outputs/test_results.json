@@ -1,0 +1,762 @@
+[
+  {
+    "animal_id": "TEST_001",
+    "timestamp": "2025-09-06T14:12:25.855245",
+    "actual_breed": "Brown_Swiss",
+    "predicted_breed": "Brown_Swiss",
+    "confidence": 0.9420639276504517,
+    "topk": {
+      "topk_breeds": [
+        "Brown_Swiss",
+        "Toda",
+        "Guernsey"
+      ],
+      "topk_probs": [
+        0.9420639276504517,
+        0.009357958100736141,
+        0.007550158072263002
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 144.1,
+      "chest_width": 52.1,
+      "rump_angle": 15.0,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 66.12,
+      "grade": "C (Average)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 144.1,
+          "unit": "cm",
+          "normalized": 85.2,
+          "weighted": 17.05
+        },
+        "chest_width": {
+          "value": 52.1,
+          "unit": "cm",
+          "normalized": 85.5,
+          "weighted": 12.83
+        },
+        "rump_angle": {
+          "value": 15.0,
+          "unit": "deg",
+          "normalized": 0.0,
+          "weighted": 0.0
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_002",
+    "timestamp": "2025-09-06T14:12:25.883523",
+    "actual_breed": "Holstein_Friesian",
+    "predicted_breed": "Holstein_Friesian",
+    "confidence": 0.866389811038971,
+    "topk": {
+      "topk_breeds": [
+        "Holstein_Friesian",
+        "Alambadi",
+        "Red_Dane"
+      ],
+      "topk_probs": [
+        0.866389811038971,
+        0.05522710084915161,
+        0.019973525777459145
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 143.8,
+      "chest_width": 51.9,
+      "rump_angle": 22.7,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 69.68,
+      "grade": "C (Average)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 143.8,
+          "unit": "cm",
+          "normalized": 84.5,
+          "weighted": 16.9
+        },
+        "chest_width": {
+          "value": 51.9,
+          "unit": "cm",
+          "normalized": 84.5,
+          "weighted": 12.67
+        },
+        "rump_angle": {
+          "value": 22.7,
+          "unit": "deg",
+          "normalized": 38.5,
+          "weighted": 3.85
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_003",
+    "timestamp": "2025-09-06T14:12:25.906465",
+    "actual_breed": "Brown_Swiss",
+    "predicted_breed": "Alambadi",
+    "confidence": 0.9415282607078552,
+    "topk": {
+      "topk_breeds": [
+        "Alambadi",
+        "Red_Dane",
+        "Hallikar"
+      ],
+      "topk_probs": [
+        0.9415282607078552,
+        0.009286927990615368,
+        0.0080178901553154
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 150.0,
+      "chest_width": 55.0,
+      "rump_angle": 35.0,
+      "udder_attachment": 3,
+      "leg_structure": 7,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 81.88,
+      "grade": "A (Very Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 55.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 15.0
+        },
+        "rump_angle": {
+          "value": 35.0,
+          "unit": "deg",
+          "normalized": 100.0,
+          "weighted": 10.0
+        },
+        "udder_attachment": {
+          "value": 3.0,
+          "unit": "score",
+          "normalized": 25.0,
+          "weighted": 4.38
+        },
+        "leg_structure": {
+          "value": 7.0,
+          "unit": "score",
+          "normalized": 75.0,
+          "weighted": 9.38
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_004",
+    "timestamp": "2025-09-06T14:12:25.929415",
+    "actual_breed": "Bargur",
+    "predicted_breed": "Alambadi",
+    "confidence": 0.996436357498169,
+    "topk": {
+      "topk_breeds": [
+        "Alambadi",
+        "Bargur",
+        "Umblachery"
+      ],
+      "topk_probs": [
+        0.996436357498169,
+        0.0011186739429831505,
+        0.0006618559709750116
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 150.0,
+      "chest_width": 55.0,
+      "rump_angle": 35.0,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 81.25,
+      "grade": "A (Very Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 55.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 15.0
+        },
+        "rump_angle": {
+          "value": 35.0,
+          "unit": "deg",
+          "normalized": 100.0,
+          "weighted": 10.0
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_005",
+    "timestamp": "2025-09-06T14:12:25.954361",
+    "actual_breed": "Red_Sindhi",
+    "predicted_breed": "Gir",
+    "confidence": 0.8139163851737976,
+    "topk": {
+      "topk_breeds": [
+        "Gir",
+        "Kangayam",
+        "Kankrej"
+      ],
+      "topk_probs": [
+        0.8139163851737976,
+        0.030863480642437935,
+        0.024303890764713287
+      ]
+    },
+    "body_parameters": {
+      "body_length": 178.7,
+      "height_at_withers": 150.0,
+      "chest_width": 54.6,
+      "rump_angle": 35.0,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 80.52,
+      "grade": "A (Very Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 178.7,
+          "unit": "cm",
+          "normalized": 97.8,
+          "weighted": 19.57
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 54.6,
+          "unit": "cm",
+          "normalized": 98.0,
+          "weighted": 14.7
+        },
+        "rump_angle": {
+          "value": 35.0,
+          "unit": "deg",
+          "normalized": 100.0,
+          "weighted": 10.0
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_006",
+    "timestamp": "2025-09-06T14:12:25.976205",
+    "actual_breed": "Tharparkar",
+    "predicted_breed": "Ongole",
+    "confidence": 0.14713755249977112,
+    "topk": {
+      "topk_breeds": [
+        "Ongole",
+        "Jaffrabadi",
+        "Nili_Ravi"
+      ],
+      "topk_probs": [
+        0.14713755249977112,
+        0.14112268388271332,
+        0.08958029747009277
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 148.0,
+      "chest_width": 54.0,
+      "rump_angle": 15.0,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 69.5,
+      "grade": "C (Average)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 148.0,
+          "unit": "cm",
+          "normalized": 95.0,
+          "weighted": 19.0
+        },
+        "chest_width": {
+          "value": 54.0,
+          "unit": "cm",
+          "normalized": 95.0,
+          "weighted": 14.25
+        },
+        "rump_angle": {
+          "value": 15.0,
+          "unit": "deg",
+          "normalized": 0.0,
+          "weighted": 0.0
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_007",
+    "timestamp": "2025-09-06T14:12:25.997492",
+    "actual_breed": "Krishna_Valley",
+    "predicted_breed": "Alambadi",
+    "confidence": 0.9509828090667725,
+    "topk": {
+      "topk_breeds": [
+        "Alambadi",
+        "Hallikar",
+        "Krishna_Valley"
+      ],
+      "topk_probs": [
+        0.9509828090667725,
+        0.02564610354602337,
+        0.005130130797624588
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 150.0,
+      "chest_width": 55.0,
+      "rump_angle": 29.7,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 78.6,
+      "grade": "B (Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 55.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 15.0
+        },
+        "rump_angle": {
+          "value": 29.7,
+          "unit": "deg",
+          "normalized": 73.5,
+          "weighted": 7.35
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_008",
+    "timestamp": "2025-09-06T14:12:26.019204",
+    "actual_breed": "Pulikulam",
+    "predicted_breed": "Pulikulam",
+    "confidence": 0.7353900671005249,
+    "topk": {
+      "topk_breeds": [
+        "Pulikulam",
+        "Alambadi",
+        "Kangayam"
+      ],
+      "topk_probs": [
+        0.7353900671005249,
+        0.14567279815673828,
+        0.0825677141547203
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 150.0,
+      "chest_width": 55.0,
+      "rump_angle": 29.1,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 78.3,
+      "grade": "B (Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 55.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 15.0
+        },
+        "rump_angle": {
+          "value": 29.1,
+          "unit": "deg",
+          "normalized": 70.5,
+          "weighted": 7.05
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_009",
+    "timestamp": "2025-09-06T14:12:26.039367",
+    "actual_breed": "Murrah",
+    "predicted_breed": "Mehsana",
+    "confidence": 0.4063112735748291,
+    "topk": {
+      "topk_breeds": [
+        "Mehsana",
+        "Murrah",
+        "Surti"
+      ],
+      "topk_probs": [
+        0.4063112735748291,
+        0.3891889452934265,
+        0.04253355786204338
+      ]
+    },
+    "body_parameters": {
+      "body_length": 172.2,
+      "height_at_withers": 150.0,
+      "chest_width": 52.4,
+      "rump_angle": 35.0,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 76.7,
+      "grade": "B (Good)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 172.2,
+          "unit": "cm",
+          "normalized": 87.0,
+          "weighted": 17.4
+        },
+        "height_at_withers": {
+          "value": 150.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "chest_width": {
+          "value": 52.4,
+          "unit": "cm",
+          "normalized": 87.0,
+          "weighted": 13.05
+        },
+        "rump_angle": {
+          "value": 35.0,
+          "unit": "deg",
+          "normalized": 100.0,
+          "weighted": 10.0
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  },
+  {
+    "animal_id": "TEST_010",
+    "timestamp": "2025-09-06T14:12:26.059048",
+    "actual_breed": "Murrah",
+    "predicted_breed": "Nili_Ravi",
+    "confidence": 0.1804889589548111,
+    "topk": {
+      "topk_breeds": [
+        "Nili_Ravi",
+        "Alambadi",
+        "Kasargod"
+      ],
+      "topk_probs": [
+        0.1804889589548111,
+        0.13469795882701874,
+        0.08442232757806778
+      ]
+    },
+    "body_parameters": {
+      "body_length": 180.0,
+      "height_at_withers": 139.8,
+      "chest_width": 49.9,
+      "rump_angle": 18.6,
+      "udder_attachment": 2,
+      "leg_structure": 8,
+      "overall_conformation": 6.0
+    },
+    "atc_score": {
+      "total_score": 64.12,
+      "grade": "C (Average)",
+      "detailed_scores": {
+        "body_length": {
+          "value": 180.0,
+          "unit": "cm",
+          "normalized": 100.0,
+          "weighted": 20.0
+        },
+        "height_at_withers": {
+          "value": 139.8,
+          "unit": "cm",
+          "normalized": 74.5,
+          "weighted": 14.9
+        },
+        "chest_width": {
+          "value": 49.9,
+          "unit": "cm",
+          "normalized": 74.5,
+          "weighted": 11.17
+        },
+        "rump_angle": {
+          "value": 18.6,
+          "unit": "deg",
+          "normalized": 18.0,
+          "weighted": 1.8
+        },
+        "udder_attachment": {
+          "value": 2.0,
+          "unit": "score",
+          "normalized": 12.5,
+          "weighted": 2.19
+        },
+        "leg_structure": {
+          "value": 8.0,
+          "unit": "score",
+          "normalized": 87.5,
+          "weighted": 10.94
+        },
+        "overall_conformation": {
+          "value": 6.0,
+          "unit": "score",
+          "normalized": 62.5,
+          "weighted": 3.12
+        }
+      }
+    }
+  }
+]

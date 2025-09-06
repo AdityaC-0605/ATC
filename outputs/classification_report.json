@@ -1,0 +1,261 @@
+{
+  "Alambadi": {
+    "precision": 0.6,
+    "recall": 0.45,
+    "f1-score": 0.5142857142857142,
+    "support": 20.0
+  },
+  "Amritmahal": {
+    "precision": 0.6,
+    "recall": 0.47368421052631576,
+    "f1-score": 0.5294117647058824,
+    "support": 19.0
+  },
+  "Ayrshire": {
+    "precision": 0.5,
+    "recall": 0.45,
+    "f1-score": 0.47368421052631576,
+    "support": 20.0
+  },
+  "Banni": {
+    "precision": 0.6666666666666666,
+    "recall": 0.1,
+    "f1-score": 0.17391304347826086,
+    "support": 20.0
+  },
+  "Bargur": {
+    "precision": 0.8,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.8421052631578947,
+    "support": 18.0
+  },
+  "Bhadawari": {
+    "precision": 0.4,
+    "recall": 0.47058823529411764,
+    "f1-score": 0.43243243243243246,
+    "support": 17.0
+  },
+  "Brown_Swiss": {
+    "precision": 0.5151515151515151,
+    "recall": 0.85,
+    "f1-score": 0.6415094339622641,
+    "support": 20.0
+  },
+  "Dangi": {
+    "precision": 0.9230769230769231,
+    "recall": 0.75,
+    "f1-score": 0.8275862068965517,
+    "support": 16.0
+  },
+  "Deoni": {
+    "precision": 0.8,
+    "recall": 0.6,
+    "f1-score": 0.6857142857142857,
+    "support": 20.0
+  },
+  "Gir": {
+    "precision": 0.38095238095238093,
+    "recall": 0.4,
+    "f1-score": 0.3902439024390244,
+    "support": 20.0
+  },
+  "Guernsey": {
+    "precision": 0.6111111111111112,
+    "recall": 0.55,
+    "f1-score": 0.5789473684210527,
+    "support": 20.0
+  },
+  "Hallikar": {
+    "precision": 0.22857142857142856,
+    "recall": 0.8,
+    "f1-score": 0.35555555555555557,
+    "support": 20.0
+  },
+  "Hariana": {
+    "precision": 0.7142857142857143,
+    "recall": 0.25,
+    "f1-score": 0.37037037037037035,
+    "support": 20.0
+  },
+  "Holstein_Friesian": {
+    "precision": 0.7391304347826086,
+    "recall": 0.85,
+    "f1-score": 0.7906976744186046,
+    "support": 20.0
+  },
+  "Jaffrabadi": {
+    "precision": 0.42857142857142855,
+    "recall": 0.9,
+    "f1-score": 0.5806451612903226,
+    "support": 20.0
+  },
+  "Jersey": {
+    "precision": 0.5652173913043478,
+    "recall": 0.65,
+    "f1-score": 0.6046511627906976,
+    "support": 20.0
+  },
+  "Kangayam": {
+    "precision": 0.47619047619047616,
+    "recall": 0.5555555555555556,
+    "f1-score": 0.5128205128205128,
+    "support": 18.0
+  },
+  "Kankrej": {
+    "precision": 0.5714285714285714,
+    "recall": 0.4,
+    "f1-score": 0.47058823529411764,
+    "support": 20.0
+  },
+  "Kasargod": {
+    "precision": 0.36363636363636365,
+    "recall": 0.631578947368421,
+    "f1-score": 0.46153846153846156,
+    "support": 19.0
+  },
+  "Kenkatha": {
+    "precision": 0.75,
+    "recall": 0.2727272727272727,
+    "f1-score": 0.4,
+    "support": 11.0
+  },
+  "Kherigarh": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7.0
+  },
+  "Khillari": {
+    "precision": 0.3225806451612903,
+    "recall": 0.5,
+    "f1-score": 0.39215686274509803,
+    "support": 20.0
+  },
+  "Krishna_Valley": {
+    "precision": 0.42857142857142855,
+    "recall": 0.45,
+    "f1-score": 0.43902439024390244,
+    "support": 20.0
+  },
+  "Malnad_gidda": {
+    "precision": 0.3181818181818182,
+    "recall": 0.35,
+    "f1-score": 0.3333333333333333,
+    "support": 20.0
+  },
+  "Mehsana": {
+    "precision": 0.5555555555555556,
+    "recall": 0.2631578947368421,
+    "f1-score": 0.35714285714285715,
+    "support": 19.0
+  },
+  "Murrah": {
+    "precision": 0.40625,
+    "recall": 0.65,
+    "f1-score": 0.5,
+    "support": 20.0
+  },
+  "Nagori": {
+    "precision": 0.4375,
+    "recall": 0.3888888888888889,
+    "f1-score": 0.4117647058823529,
+    "support": 18.0
+  },
+  "Nagpuri": {
+    "precision": 0.4,
+    "recall": 0.3,
+    "f1-score": 0.34285714285714286,
+    "support": 20.0
+  },
+  "Nili_Ravi": {
+    "precision": 1.0,
+    "recall": 0.05555555555555555,
+    "f1-score": 0.10526315789473684,
+    "support": 18.0
+  },
+  "Nimari": {
+    "precision": 0.7142857142857143,
+    "recall": 0.5882352941176471,
+    "f1-score": 0.6451612903225806,
+    "support": 17.0
+  },
+  "Ongole": {
+    "precision": 0.5833333333333334,
+    "recall": 0.35,
+    "f1-score": 0.4375,
+    "support": 20.0
+  },
+  "Pulikulam": {
+    "precision": 0.7,
+    "recall": 0.35,
+    "f1-score": 0.4666666666666667,
+    "support": 20.0
+  },
+  "Rathi": {
+    "precision": 0.8333333333333334,
+    "recall": 0.5,
+    "f1-score": 0.625,
+    "support": 20.0
+  },
+  "Red_Dane": {
+    "precision": 0.43478260869565216,
+    "recall": 0.5,
+    "f1-score": 0.46511627906976744,
+    "support": 20.0
+  },
+  "Red_Sindhi": {
+    "precision": 0.3076923076923077,
+    "recall": 0.2,
+    "f1-score": 0.24242424242424243,
+    "support": 20.0
+  },
+  "Sahiwal": {
+    "precision": 0.4444444444444444,
+    "recall": 0.6,
+    "f1-score": 0.5106382978723404,
+    "support": 20.0
+  },
+  "Surti": {
+    "precision": 0.75,
+    "recall": 0.25,
+    "f1-score": 0.375,
+    "support": 12.0
+  },
+  "Tharparkar": {
+    "precision": 0.47368421052631576,
+    "recall": 0.45,
+    "f1-score": 0.46153846153846156,
+    "support": 20.0
+  },
+  "Toda": {
+    "precision": 0.5652173913043478,
+    "recall": 0.65,
+    "f1-score": 0.6046511627906976,
+    "support": 20.0
+  },
+  "Umblachery": {
+    "precision": 0.3076923076923077,
+    "recall": 0.26666666666666666,
+    "f1-score": 0.2857142857142857,
+    "support": 15.0
+  },
+  "Vechur": {
+    "precision": 0.5263157894736842,
+    "recall": 0.5,
+    "f1-score": 0.5128205128205128,
+    "support": 20.0
+  },
+  "accuracy": 0.4869109947643979,
+  "macro avg": {
+    "precision": 0.5400832022922213,
+    "recall": 0.47452505878844314,
+    "f1-score": 0.4670847416931049,
+    "support": 764.0
+  },
+  "weighted avg": {
+    "precision": 0.5426675741288248,
+    "recall": 0.4869109947643979,
+    "f1-score": 0.47558349528929994,
+    "support": 764.0
+  }
+}
